@@ -19,7 +19,8 @@ You should be able to use almost any C++ compiler to compile MashinSensorHoda.
 
 Linux:
 
-g++ MashinSensorHoda.cpp
+g++ MashinSensorHoda.cpp MashinSensorHoda.c
+You can run executable file by typing MashineSensorHoda.
 
 Windows:
 
@@ -27,4 +28,4 @@ From the VS Studio CMD Prompt:
 Go to ~\MashineSensorHoda and type:
 cl.exe MashineSensorHoda.cpp
 
-Now, just run the exe file that is created: "MashineSensorHoda.exe"
+Now, just run the executable file that is created: "MashineSensorHoda.exe"
