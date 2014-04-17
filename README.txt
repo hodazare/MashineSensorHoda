@@ -1,6 +1,6 @@
 Readme file for the program: MashineSensorHoda in C++
 -----------------------------------------------------
-Senario
+## Senario
 -----------
 The “MashineSensorHoda” program creates random data (instead of taking input from a sensor), 
 then calibrate the data (sensor), and move the motor to a position that is the average of the received data, 
@@ -12,7 +12,7 @@ In the next step, the average of the data is calculated in “CSensor::ReadData(
 After that, the motor is moved to the average position by using “Cmotor.MoveMotor(distance)” function.
 The program stops working and the door becomes open when the average of the data becomes more than 160.
  
-Compiling
+## Compiling
 -----------
 -----------
 You should be able to use almost any C++ compiler to compile MashinSensorHoda.
