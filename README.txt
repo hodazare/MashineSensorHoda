@@ -29,3 +29,19 @@ Go to ~\MashineSensorHoda and type:
 cl.exe MashineSensorHoda.cpp
 
 Now, just run the executable file that is created: "MashineSensorHoda.exe"
+
+
+* Use `UTF-8` as the source file encoding.
+* Use two **spaces** per indentation level (aka soft tabs). No hard tabs.
+
+  ```Ruby
+  # bad - four spaces
+  def some_method
+      do_something
+  end
+
+  # good
+  def some_method
+    do_something
+  end
+  ```
