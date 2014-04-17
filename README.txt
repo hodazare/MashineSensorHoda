@@ -30,6 +30,19 @@ cl.exe MashineSensorHoda.cpp
 
 Now, just run the executable file that is created: "MashineSensorHoda.exe"
 
+# Prelude
+
+> Role models are important. <br/>
+> -- Officer Alex J. Murphy / RoboCop
+
+One thing has always bothered me as a Ruby developer - Python developers
+have a great programming style reference
+([PEP-8](http://www.python.org/dev/peps/pep-0008/)) and we never got
+an official guide, documenting Ruby coding style and best
+practices. And I do believe that style matters. I also believe that a
+great hacker community, such as Ruby has, should be quite capable of
+producing this coveted document.
+
 
 * Use `UTF-8` as the source file encoding.
 * Use two **spaces** per indentation level (aka soft tabs). No hard tabs.
